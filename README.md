@@ -18,3 +18,5 @@ This project is a quickstrt to show how to use Distributed Dask and Scikit-Learn
     - More realistic Dask-ML example (06)
     
 NB: you may have to use conda install python-graphviz to render the graph visualization in notebook 02
+
+"conda install -c conda-forge python-graphviz"
