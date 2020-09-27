@@ -1,0 +1,10 @@
+-e utils/cdsw_await_workers/
+-e utils/dask-workers/
+dask[complete]==2.6.0
+bokeh==1.4.0
+joblib==0.14.0
+dask-ml==1.0.0
+distributed==2.6.0
+scikit-learn==0.21.3
+msgpack<1.0.0
+pyarrow

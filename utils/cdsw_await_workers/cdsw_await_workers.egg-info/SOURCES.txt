@@ -1,0 +1,7 @@
+README.md
+cdsw_await_workers.py
+setup.py
+cdsw_await_workers.egg-info/PKG-INFO
+cdsw_await_workers.egg-info/SOURCES.txt
+cdsw_await_workers.egg-info/dependency_links.txt
+cdsw_await_workers.egg-info/top_level.txt
